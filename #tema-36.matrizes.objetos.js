@@ -1,0 +1,8 @@
+/*variavel nomeVariavel = [
+    {
+
+    },
+    {
+
+    }
+];*/
